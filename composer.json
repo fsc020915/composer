@@ -4,7 +4,6 @@
     "type": "libray",
     "require": {
         "php": ">=7.0",
-        "elasticsearch/elasticsearch": "~6.0",
     },
     "license": "MIT",
     "autoload": {
