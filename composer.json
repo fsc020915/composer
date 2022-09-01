@@ -1,0 +1,20 @@
+{
+    "name": "fsc/fsc",
+    "description": "none",
+    "type": "libray",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fsc\\Fsc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "冯赛冲",
+            "email": "1846869817@qq.com"
+        }
+    ]
+}
